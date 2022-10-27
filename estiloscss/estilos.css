@@ -103,11 +103,14 @@ main{
 
 .profesoraimagen{
         text-align: center;
-         padding: 2cm;
+        padding-top: 50px;
+        padding-bottom: 50px;
 }
 
 .fotosprofesora{
         text-align: center;
+        padding-top: 50px;
+        padding-bottom: 50px;
    
 
 }
@@ -127,4 +130,12 @@ main{
       backface-visibility: visible;
     }
  
-  
+  /* CSS para contacto.html */
+
+  .contacto {
+    background-color: red;
+    padding-bottom: 50px;
+    padding-top: 50px;
+    padding-left: 50px;
+    padding-right: 50px;
+  }
