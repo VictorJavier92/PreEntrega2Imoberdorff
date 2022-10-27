@@ -139,3 +139,8 @@ main{
     padding-left: 50px;
     padding-right: 50px;
   }
+
+  .footer{
+        background-color: rgba(0, 0, 0, 0.2);
+
+  }
